@@ -1,0 +1,107 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+
+}
+
+#logo{
+
+    color:  white;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 30px;
+
+}
+
+#navbar{
+
+    display: flex;
+    background-color: rgb(174, 4, 4);
+    height: 70px;
+}
+#searchbar{
+
+    margin-top: 20px;
+    margin-left: 930px;
+     
+}
+#search{
+    border-radius: 5px;
+    background-color: blue;
+    font-weight: 700;
+    margin-left: 7px;
+     
+}
+
+.wel{
+
+    font-size: 30px;
+}
+nav{
+    text-decoration: none;
+     color: blue;
+    font-weight: 700;
+    
+}
+
+#marquee{
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 700;
+}
+h1{
+
+    font-size: 40px;
+    
+}
+.color{
+    color: orange;
+}
+#welcome{
+    height: 400px;
+    width: 500px;
+    background-color:  white;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 20px;
+
+}
+#para1{
+    background-color: blanchedalmond;
+}
+
+ 
+section{
+
+    display: flex;
+}
+#hire{
+
+    text-decoration:none ;
+    background-color: orange;
+    border-radius: 5px;
+    padding: 4px;
+    background-image: linear-gradient(rgb(194, 72, 6));
+    font-weight: 700;
+    font-size: 12px;
+}
+#welcome1{
+
+    height: 400px;
+    width: 500px;
+    background-color:  white;
+    margin-left: 100px;
+    margin-top: 100px;
+    padding: 20px;
+    margin-left: 300px;
+
+}
+
+#downborder{
+
+    height: 70px;
+    width: 100%;
+    background-color: rgb(160, 12, 12);
+
+}
+ 
